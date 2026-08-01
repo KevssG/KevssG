@@ -17,6 +17,8 @@ type. The parts I can show publicly are below.
 | **[CrosshairLink](https://github.com/KevssG/CrosshairLink)** | One crosshair, two platforms. Bidirectional crosshair sync between TradingView and NinjaTrader 8 over a CDP + UDP bridge at 60 Hz. Python + NinjaScript. |
 | **[Confluence Zones](https://www.tradingview.com/script/5RInSepn/)** | Published TradingView indicator (Pine Script v6): intraday confluence zones — FVG, volume profile, market structure — with automatic scoring and configurable alerts. |
 | **[fable-mode](https://github.com/KevssG/fable-mode)** | Five reasoning disciplines packaged as an installable skill for Claude Code, validated with blind tests. |
+| **[Jarvis](https://github.com/KevssG/Jarvis)** | A fully local Spanish voice assistant for Windows: wakes on a double hand-clap (custom DSP detector), hears with faster-whisper, speaks with Piper. No paid speech SaaS. App whitelist, dry-run safe mode, audit log. |
+| **[ninjatrader-chart-tools](https://github.com/KevssG/ninjatrader-chart-tools)** | Small NinjaTrader 8 indicators for the chart itself. `CentrarPrecio` keeps the live price vertically centered using invisible auto-scale anchors. |
 
 ### Stack
 
@@ -44,7 +46,8 @@ supervisada en NinjaTrader 8.
 Casi todo mi trabajo es desarrollo asistido por agentes de IA: yo especifico, orquesto y
 reviso; los agentes teclean. Lo que puedo mostrar en público está arriba: **GhostLimit** (orden
 en reposo fuera del libro para NinjaTrader 8), **CrosshairLink** (retícula sincronizada
-TradingView ↔ NinjaTrader), **Confluence Zones** (indicador publicado en TradingView) y
-**fable-mode** (skill de razonamiento para Claude Code).
+TradingView ↔ NinjaTrader), **Confluence Zones** (indicador publicado en TradingView), **Jarvis** (asistente de voz
+100% local), **fable-mode** (skill de razonamiento para Claude Code) y un par de indicadores
+chicos de gráfica.
 
 El bot vive en un repo privado — por razones obvias.
