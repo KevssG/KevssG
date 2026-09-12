@@ -4,7 +4,7 @@
 
 I turn trading decisions into software. Nine years in the markets, a Finance degree, and an
 end-to-end algorithmic trading bot in Python that I designed, built and run every morning:
-multi-strategy engine, 3,600+ automated tests, supervised execution on NinjaTrader 8.
+multi-strategy engine, 4,300+ automated tests, supervised execution on NinjaTrader 8.
 
 Most of my work is AI-agent-assisted development — I specify, orchestrate and review; agents
 type. The parts I can show publicly are below.
@@ -40,7 +40,7 @@ kevin.garcia.quant@gmail.com
 
 Convierto decisiones de trading en software. Nueve años operando mercados, formación en
 Finanzas y un bot de trading algorítmico end-to-end en Python que diseñé, construí y opero
-cada mañana: motor multi-estrategia, más de 3,600 pruebas automatizadas y ejecución
+cada mañana: motor multi-estrategia, más de 4,300 pruebas automatizadas y ejecución
 supervisada en NinjaTrader 8.
 
 Casi todo mi trabajo es desarrollo asistido por agentes de IA: yo especifico, orquesto y
