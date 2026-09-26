@@ -13,7 +13,7 @@ type. The parts I can show publicly are below.
 
 | | |
 |---|---|
-| **[GhostLimit](https://github.com/KevssG/GhostLimit)** | A resting order that isn't on the book. NinjaTrader 8 indicator (C#/NinjaScript): arms a trigger line and submits the real Stop/Limit entry with a native ATM bracket the moment price touches it. Fail-closed, 26 tests that run with the market closed. |
+| **[GhostLimit](https://github.com/KevssG/GhostLimit)** | A resting order that isn't on the book. NinjaTrader 8 indicator (C#/NinjaScript): arms a trigger line and submits the real Stop/Limit entry with a native ATM bracket the moment price touches it. Fail-closed, 36 tests that run with the market closed. |
 | **[CrosshairLink](https://github.com/KevssG/CrosshairLink)** | One crosshair, two platforms. Bidirectional crosshair sync between TradingView and NinjaTrader 8 over a CDP + UDP bridge at 60 Hz. Python + NinjaScript. |
 | **[Confluence Zones](https://www.tradingview.com/script/5RInSepn/)** | Published TradingView indicator (Pine Script v6): intraday confluence zones — FVG, volume profile, market structure — with automatic scoring and configurable alerts. |
 | **[fable-mode](https://github.com/KevssG/fable-mode)** | Five reasoning disciplines packaged as an installable skill for Claude Code, validated with blind tests. |
