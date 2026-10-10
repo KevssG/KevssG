@@ -13,7 +13,8 @@ type. The parts I can show publicly are below.
 
 | | |
 |---|---|
-| **[GhostLimit](https://github.com/KevssG/GhostLimit)** | A resting order that isn't on the book. NinjaTrader 8 indicator (C#/NinjaScript): arms a trigger line and submits the real Stop/Limit entry with a native ATM bracket the moment price touches it. Fail-closed, 36 tests that run with the market closed. |
+| **[GhostLimit](https://github.com/KevssG/GhostLimit)** | A resting order that isn't on the book. NinjaTrader 8 indicator (C#/NinjaScript): arms a trigger line and submits the real Stop/Limit entry with a native ATM bracket the moment price touches it. Fail-closed. **Commercial product, on sale since Oct 2026** — per-computer RSA license, one-file installer. |
+| **[GhostLimit sales pipeline](https://github.com/KevssG/ghostlimit-activacion)** | Serverless checkout-to-license flow I built for it: Stripe Payment Link → Google Apps Script (no webhook, 5-minute sweep) → sales sheet with referral commissions → buyer email with the download → static activation page that issues an RSA-signed, per-machine license (2 activations). |
 | **[CrosshairLink](https://github.com/KevssG/CrosshairLink)** | One crosshair, two platforms. Bidirectional crosshair sync between TradingView and NinjaTrader 8 over a CDP + UDP bridge at 60 Hz. Python + NinjaScript. |
 | **[Confluence Zones](https://www.tradingview.com/script/5RInSepn/)** | Published TradingView indicator (Pine Script v6): intraday confluence zones — FVG, volume profile, market structure — with automatic scoring and configurable alerts. |
 | **[fable-mode](https://github.com/KevssG/fable-mode)** | Five reasoning disciplines packaged as an installable skill for Claude Code, validated with blind tests. |
@@ -45,7 +46,8 @@ supervisada en NinjaTrader 8.
 
 Casi todo mi trabajo es desarrollo asistido por agentes de IA: yo especifico, orquesto y
 reviso; los agentes teclean. Lo que puedo mostrar en público está arriba: **GhostLimit** (orden
-en reposo fuera del libro para NinjaTrader 8), **CrosshairLink** (retícula sincronizada
+en reposo fuera del libro para NinjaTrader 8, a la venta desde octubre de 2026 con licencia por
+computadora y cobro automático: Stripe → Google Apps Script → licencia por correo), **CrosshairLink** (retícula sincronizada
 TradingView ↔ NinjaTrader), **Confluence Zones** (indicador publicado en TradingView), **Jarvis** (asistente de voz
 100% local), **fable-mode** (skill de razonamiento para Claude Code) y un par de indicadores
 chicos de gráfica.
